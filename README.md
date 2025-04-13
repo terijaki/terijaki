@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 <p>I'm Björn, Fullstack Developer, currently living near the blackforest area in Germany.</p>
-<br/>
+
 <h5>I like to work with:</h5>
 <p>
 <img
@@ -46,6 +46,10 @@
 <img
   alt="Hetzner"
   src="https://img.shields.io/badge/-Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white"
+/>
+<img
+  alt="Coolify"
+  src="https://img.shields.io/badge/-Coolify-8C52FF?style=flat&logo=coolify&logoColor=white"
 />
 <img
   alt="Github Actions"
@@ -114,7 +118,11 @@
   alt="Tina"
   src="https://img.shields.io/badge/-Tina-EC4815?style=flat&logo=tina&logoColor=white"
 />
+<img
+  alt="Moodle"
+  src="https://img.shields.io/badge/-Moodle-F98012?style=flat&logo=moodle&logoColor=white"
+/>
 </p>
-<br/>
+
 <h2>Spielzeit Ninja</h2>
 <p>My focus is on https://spielzeit.ninja, an app targeted at amateur sports clubs to help teams coordinate and plan their training sessions, tournaments and games effectively.</p>
