@@ -52,10 +52,6 @@
   src="https://img.shields.io/badge/-Coolify-8C52FF?style=flat&logo=coolify&logoColor=white"
 />
 <img
-  alt="Github Actions"
-  src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"
-/>
-<img
   alt="AWS SES"
   src="https://img.shields.io/badge/-AWS%20SES-DD344C?style=flat&logo=amazonsimpleemailservice&logoColor=white"
 />
@@ -105,6 +101,10 @@
 <img
   alt="MySQL"
   src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"
+/>
+<img
+  alt="Github Actions"
+  src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"
 />
 <img
   alt="GitHub Pages"
