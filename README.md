@@ -18,6 +18,7 @@
   <a target="_blank" href="https://coolify.io/"><img alt="Coolify" src="https://img.shields.io/badge/-Coolify-8C52FF?style=flat&logo=coolify&logoColor=white" /></a>
   <a target="_blank" href="https://aws.amazon.com/ses/"><img alt="AWS SES" src="https://img.shields.io/badge/-AWS%20SES-DD344C?style=flat&logo=amazonsimpleemailservice&logoColor=white" /></a>
   <a target="_blank" href="https://mantine.dev/"><img alt="Mantine" src="https://img.shields.io/badge/-Mantine-339AF0?style=flat&logo=mantine&logoColor=white" /></a>
+  <a target="_blank" href="http://sentry.io/"><img alt="Sentry" src="https://img.shields.io/badge/-Sentry-6A5FC1?style=flat&logo=sentry&logoColor=white" /></a>
 </p>
 
 <h4>I am interested in:</h5>
