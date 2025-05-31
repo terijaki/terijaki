@@ -19,11 +19,11 @@
   <a target="_blank" href="https://aws.amazon.com/ses/"><img alt="AWS SES" src="https://img.shields.io/badge/-AWS%20SES-DD344C?style=flat&logo=amazonsimpleemailservice&logoColor=white" /></a>
   <a target="_blank" href="https://mantine.dev/"><img alt="Mantine" src="https://img.shields.io/badge/-Mantine-339AF0?style=flat&logo=mantine&logoColor=white" /></a>
   <a target="_blank" href="http://sentry.io/"><img alt="Sentry" src="https://img.shields.io/badge/-Sentry-6A5FC1?style=flat&logo=sentry&logoColor=white" /></a>
+  <a target="_blank" href="https://payloadcms.com/"><img alt="Payload CMS" src="https://img.shields.io/badge/-Payload%20CMS-000000?style=flat&logo=payloadcms&logoColor=white" /></a>
 </p>
 
 <h4>I am interested in:</h5>
 <p>
-  <a target="_blank" href="https://payloadcms.com/"><img alt="Payload CMS" src="https://img.shields.io/badge/-Payload%20CMS-000000?style=flat&logo=payloadcms&logoColor=white" /></a>
   <a target="_blank" href="https://go.dev/"><img alt="GO" src="https://img.shields.io/badge/-GO-00ADD8?style=flat&logo=go&logoColor=white" /></a>
   <a target="_blank" href="https://orm.drizzle.team/"><img alt="Drizzle" src="https://img.shields.io/badge/-Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black" /></a>
 </p>
