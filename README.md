@@ -45,8 +45,9 @@
 
 <h2>Spielzeit Ninja</h2>
 <p>My focus is on <a target="_blank" href="https://spielzeit.ninja">Spielzeit Ninja,</a> an app targeted at amateur sports clubs to help teams coordinate and plan their training sessions, tournaments and games effectively.</p>
-<div style="display: flex; gap: 12px; flex-direction: row">
-  <a href="https://apps.apple.com/de/app/spielzeit-ninja/id6742789725"><div style="display:inline-block"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1744588800" alt="Download on the App Store" style="width: 123px; height: 41px;" /></div></a>
-  <a href="https://play.google.com/store/apps/details?id=com.terijaki.spielzeitninja"><div style="width:106px; height:53px; overflow:hidden; display:inline-block;"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" style="height: 59px; margin-top: -6px; object-fit: cover;"/>
-</div></a>
+<div>
+  <a href="https://apps.apple.com/de/app/spielzeit-ninja/id6742789725"><img src="https://spielzeit.ninja/stores/badge-apple.png" alt="Download on the App Store" height="46" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.terijaki.spielzeitninja"><img src="https://spielzeit.ninja/stores/badge-google.png" alt="Get it on Google Play" height="46"/>
+</a>
 </div>
+
